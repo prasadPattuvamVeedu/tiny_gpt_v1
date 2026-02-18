@@ -1,0 +1,9 @@
+chatbot_conversations.csv
+
+# Ignore datasets
+*.csv
+data/
+*.pt
+*.pth
+__pycache__/
+venv/
